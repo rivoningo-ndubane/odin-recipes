@@ -1,0 +1,10 @@
+body
+{
+    color: hsl(0, 0%, 0%);
+    background-color: white;
+}
+
+a
+{
+    color: hsl(0, 85%, 40%);
+}
